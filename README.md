@@ -10,5 +10,5 @@ Vuforia AR hello gala project with NGUI.
 2. If you don't have the Ablum *Young For You*, you can use the picture below.   
 ![Ablum](/Assets/Editor/QCAR/ImageTargetTextures/mAR/gala_scaled.jpg)
 3. Let the Ablum picture shown in the WebCam, you will see something appear in the Unity Editor and hear the music.
-
+![Tracked](/Pics/Tracked.png)
 
